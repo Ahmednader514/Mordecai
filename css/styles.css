@@ -271,6 +271,12 @@ body {
   margin-bottom: 100px;
 }
 
+iframe {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .main-section .content {
     width: 80%;
     margin: auto;

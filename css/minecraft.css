@@ -23,6 +23,12 @@
         text-decoration: none;
         color: white;
     }
+
+    iframe {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+    }
 /* Global Values End */
 
 /* Animation Start */
